@@ -10,7 +10,7 @@ __Table 1.__ Note-Taking Schedule. First come first serve.
 |       |                 | 2. David Huang        |
 |       |                 | 3. Conrad Ning        |
 |       |                 | 4. Connor Sughrue     |
-|       |                 | 5.          |
+|       |                 | 5. Asha Silva         |
 |       |                 | 6.          |
 |       |                 | 7.          |
 |       |                 | 8.          |
@@ -20,7 +20,7 @@ __Table 1.__ Note-Taking Schedule. First come first serve.
 |       |                 | 4.Jacinta Das         |
 |       |                 | 5. Kelton Berry       |
 |       |                 | 6. Kimya Shirazi      |
-|       |                 | 7.Mayada Hassan       |
+|       |                 | 7.          |
 |       |                 | 8.          |
 | 3     | 5 May @ 9 AM    | 1.Justin C  |
 |       |                 | 2. Julian Hayes|
